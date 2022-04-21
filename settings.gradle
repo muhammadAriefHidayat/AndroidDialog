@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Dialog Team 2 (siti,arief,mufti)"

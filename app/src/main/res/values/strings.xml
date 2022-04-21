@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialog Team 2 (siti,arief,mufti)</string>
+    <string name="hallo_ini_di_dialog_fragment">hallo ini di dialog fragment</string>
+    <string name="tutup">tutup</string>
+</resources>
